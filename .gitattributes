@@ -6,3 +6,5 @@ taxibooking/src/main/resources/static/booking/font/*.css linguist-vendored
 taxibooking/src/main/resources/static/**/*.less linguist-vendored
 taxibooking/src/main/resources/static/**/*.php linguist-vendored
 taxibooking/src/main/resources/static/booking/font/* linguist-vendored
+taxibooking/src/main/resources/static/**/*.js linguist-vendored
+taxibooking/src/main/resources/static/**/*.css linguist-vendored
